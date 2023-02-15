@@ -1,1 +1,1 @@
-SHELL DIRECTIONS
+Shell redirections and filter
